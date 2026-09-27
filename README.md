@@ -17,9 +17,9 @@ A 92-second ink animation for **8th-grade maths**. Nokta, the ink character from
 
 MEB, Türkiye Yüzyılı Maarif Modeli, Ortaokul Matematik, 8th grade, "Geometrik Şekiller" theme:
 
-**MAT.8.3.5. Kenar uzunlukları a² + b² = c² eşitliğini sağlayan üçgenleri oluşturarak dik üçgen olduklarını; dik üçgenlerde dik kenar uzunluklarının kareleri toplamının hipotenüs uzunluğunun karesine eşit olduğunu yorumlayabilme**
-- a) a² + b² = c² eşitliğini sağlayan rasyonel sayıları inceler.
-- b) Kenar uzunlukları a² + b² = c² eşitliğini sağlayan üçgeni oluşturarak dik üçgen olduğunu; dik üçgenlerde hipotenüs uzunluğunun karesinin diğer iki kenarın uzunluklarının kareleri toplamına eşit olduğunu belirler.
+**MAT.8.3.5. Kenar uzunlukları a²+ b²= c² eşitliğini sağlayan üçgenleri oluşturarak dik üçgen olduklarını; dik üçgenlerde dik kenar uzunluklarının kareleri toplamının hipotenüs uzunluğunun karesine eşit olduğunu yorumlayabilme**
+- a) a²+ b²= c² eşitliğini sağlayan rasyonel sayıları inceler.
+- b) Kenar uzunlukları a²+ b²= c² eşitliğini sağlayan üçgeni oluşturarak dik üçgen olduğunu; dik üçgenlerde hipotenüs uzunluğunun karesinin diğer iki kenarın uzunluklarının kareleri toplamına eşit olduğunu belirler.
 - c) Pisagor bağıntısını üçgende açı-kenar ilişkisi ve üçgen eşitsizliği ile ilişkilendirerek dar açılı ve geniş açılı üçgenlerdeki kenar uzunluklarının ilişkisini ifade eder.
 
 ## Scenes
